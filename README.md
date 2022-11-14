@@ -40,3 +40,13 @@ Fall is placed in the leftmost column, spring in the middle, and summer in the r
 CPSC 1301K and MATH 1113 are my Fall classes and placed in the two cells directly underneath my Fall 2023 semester cell.
 CPSC 1301 is my Spring class and placed in the cell directly beneath my Spring semester cell.
 Summer 2024 has no classes associated with it so the cells below it are blank.
+
+## Demo
+Starting with a blank template file
+![Blank template file](screenshots/blank.png?raw=true)
+
+Passing in the prereqs.csv, but NOT allowing summer courses
+![No summer output](screenshots/output1.png?raw=true)
+
+This time allowing summer courses
+![Summer output](screenshots/output2.png?raw=true)
