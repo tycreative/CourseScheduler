@@ -46,9 +46,11 @@ Starting with a blank template file
 ![Blank template file](screenshots/blank.png?raw=true)
 
 Passing in the prereqs.csv, but NOT allowing summer courses
-* Notice how courses follow their available seasons
+- Notice how courses that don't exist in the database are given a default value
+
 ![No summer output](screenshots/output1.png?raw=true)
 
 This time allowing summer courses
-* Notice how courses that don't exist in the database are given a default value
+- Notice how courses follow their available seasons
+
 ![Summer output](screenshots/output2.png?raw=true)
